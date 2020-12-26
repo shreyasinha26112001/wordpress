@@ -1,5 +1,5 @@
 <?php
-ini_set('max_execution_time', '420');
+ini_set('max_execution_time', '0');
 /**
  * WordPress database access abstraction class
  *
